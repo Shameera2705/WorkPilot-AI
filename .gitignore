@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+data/workpilot.db
+output/*
+!output/.gitkeep
+.streamlit/

@@ -1,0 +1,7 @@
+ticket_id,customer,priority,hours_open,issue
+T-101,Northstar Health,critical,3,Production login outage affecting staff
+T-102,Green Basket,medium,8,Question about invoice export
+T-103,Orbit Finance,high,29,Payment reconciliation mismatch
+T-104,Maple Logistics,low,4,Request to update account contact
+T-105,Silverline Retail,medium,31,Order status integration is delayed
+T-106,Bluebird Travel,high,12,Customers cannot complete booking changes
